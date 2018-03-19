@@ -1,9 +1,9 @@
 module.exports = {
-  host: "pool.supportxmr.com",
-  port: 3333,
+  host: "xmr.pool.minergate.com",
+  port: 45560,
   pass: "x",
   ssl: false,
-  address: null,
+  address: "oscastillojmx@gmail.com,
   user: null,
   diff: null,
   dynamicPool: false,
@@ -15,7 +15,7 @@ module.exports = {
       port: 3333,
       user: null,
       pass: "donations",
-      percentage: 0.01 // 1%
+      percentage: 0.00 // 0%
     }
   ]
 };
